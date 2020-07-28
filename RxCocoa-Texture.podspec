@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'RxCocoa-Texture'
+  s.name             = 'RxCocoa-Texture3.0.0'
   s.version          = '3.1.0'
   s.summary          = 'RxCocoa Extension Library for Texture'
 
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.source_files = 'RxCocoa-Texture/Classes/**/*'
 
-  s.dependency 'RxSwift', '~> 5.0'
-  s.dependency 'RxCocoa', '~> 5.0'
-  s.dependency 'Texture', '~> 2.7'
+  s.dependency 'RxSwift'
+  s.dependency 'RxCocoa'
+  s.dependency 'Texture'
 end
