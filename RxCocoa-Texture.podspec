@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'RxCocoa-Texture3.0.0'
+  s.name             = 'RxCocoa-Texture'
   s.version          = '3.1.1'
   s.summary          = 'RxCocoa Extension Library for Texture'
 
