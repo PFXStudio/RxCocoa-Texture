@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/RxSwiftCommunity/RxCocoa-Texture'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Geektree0101' => 'h2s1880@gmail.com' }
-  s.source           = { :git => 'https://github.com/RxSwiftCommunity/RxCocoa-Texture.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/PFXStudio/RxCocoa-Texture.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.swift_version = '5.0'
